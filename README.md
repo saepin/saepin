@@ -1,3 +1,4 @@
+# saepinﾚﾎﾟｼﾞﾄﾘ-
 - 👋 Hi, I’m @saepin
 - 👀 I’m interested in programming learning
 - 🌱 I’m currently learning python
